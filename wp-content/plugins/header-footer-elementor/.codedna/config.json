@@ -1,0 +1,38 @@
+{
+  "mode": "auto",
+  "moduleRoots": [
+    "src",
+    "inc",
+    "admin",
+    "themes",
+    "app",
+    "apps",
+    "packages",
+    "services",
+    "modules",
+    "internal",
+    "libs",
+    "backend",
+    "frontend"
+  ],
+  "ignore": [
+    "node_modules",
+    ".git",
+    "dist",
+    "build",
+    "out",
+    "coverage",
+    "vendor",
+    ".next",
+    ".nuxt",
+    "target",
+    "__pycache__",
+    "generated",
+    ".venv",
+    "languages",
+    "bin",
+    "inc/lib/astra-notices",
+    "inc/lib/nps-survey",
+    "admin/bsf-analytics"
+  ]
+}
